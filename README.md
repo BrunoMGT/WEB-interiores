@@ -8,7 +8,8 @@ Ofrecer medios de contacto con los profecionales de manera sencilla.
 Cartas de presentacion de las personas involucradas en el emprendimiento.
 
 ## Actualmente
-Creacion de bocetos y busqueda de referencias online.
+- Repaso de contenido de cursos previos.
+- Creacion de bocetos y busqueda de referencias online.
 
 ## Herramientas
 - VSCode
