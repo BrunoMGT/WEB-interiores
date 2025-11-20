@@ -1,0 +1,32 @@
+/* CSS HEX */
+--congress-blue: #043d8d;
+--white-ice: #f8fefd;
+--horizon: #6686ab;
+--deep-sapphire: #0e3c76;
+--spindle: #c0d5ed;
+--polo-blue: #8fabc9;
+--chambray: #345780;
+--congress-blue: #043f86;
+--bay-of-many: #224c80;
+
+/* SCSS HEX */
+$congress-blue: #043d8d;
+$white-ice: #f8fefd;
+$horizon: #6686ab;
+$deep-sapphire: #0e3c76;
+$spindle: #c0d5ed;
+$polo-blue: #8fabc9;
+$chambray: #345780;
+$congress-blue: #043f86;
+$bay-of-many: #224c80;
+
+/* SCSS RGB */
+$congress-blue: rgba(4,61,141,1);
+$white-ice: rgba(248,254,253,1);
+$horizon: rgba(102,134,171,1);
+$deep-sapphire: rgba(14,60,118,1);
+$spindle: rgba(192,213,237,1);
+$polo-blue: rgba(143,171,201,1);
+$chambray: rgba(52,87,128,1);
+$congress-blue: rgba(4,63,134,1);
+$bay-of-many: rgba(34,76,128,1);
