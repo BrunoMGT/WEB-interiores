@@ -1,5 +1,9 @@
-@font-face {
+
+@font-face{
     font-family: "Monse";
-    src: url("Montserrat/static/Montserrat-Regular.ttf") format("truetype");
-    font-weight: 400;
+    src: url("Montserrat/Montserrat-VariableFont_wght.ttf") format("truetype");
+}
+@font-face{
+    font-family: "Monsi";
+    src: url("Montserrat/Montserrat-Italic-VariableFont_wght.ttf") format("truetype");
 }
